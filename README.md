@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👩‍💻 I'm a Software Engineer with a Passion for Science<br>🔭 I’m currently working as a Frontend developer <br>Having hands on Experience on React.js, Next.js, Redux, React Query, MUI<br>🌱 I’m currently learning Java for backend <br>💬 Ask me about Programming
+👩‍💻 I'm a Software Engineer with a Passion for Science<br>🔭 I’m currently working on frontend technologies e.g, React.js, Next.js, Redux, React Query, MUI<br>🌱 I’m currently learning Java for backend <br>💬 Ask me about Programming
 
 
 ## 🌐 Socials:
